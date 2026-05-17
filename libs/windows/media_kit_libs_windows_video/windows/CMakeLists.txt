@@ -67,8 +67,8 @@ endfunction()
 set(LIBMPV "mpv-dev-x86_64-20260421-git-5921fe5.7z")
 
 # Download URL & MD5 hash of the libmpv archive.
-set(LIBMPV_URL "https://github.com/shinchiro/mpv-winbuild-cmake/releases/download/20260421/mpv-dev-x86_64-20260421-git-5921fe5.7z")
-set(LIBMPV_MD5 "6f6fd799d2a218bb7ac01661e96102d9")
+set(LIBMPV_URL "https://github.com/shinchiro/mpv-winbuild-cmake/releases/download/20260517/mpv-dev-x86_64-20260517-git-059bc70.7z")
+set(LIBMPV_MD5 "4a648fcdd8b8c1492b9142a1e040455a")
 
 # Download location of the libmpv archive.
 set(LIBMPV_ARCHIVE "${CMAKE_BINARY_DIR}/${LIBMPV}")
